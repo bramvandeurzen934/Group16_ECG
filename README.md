@@ -1,2 +1,4 @@
-# Group16_ECG
-This repository is created to work on the assignment of TM10007: Machine Learning Diagnosing. The subject is diagnosis heart disease in 12-lead ECG data.
+# TM10007_PROJECT
+
+Read the project guidelines (TM10007_projectguidelines) and work out your solution in the Jupyter Notebook (assignment.ipynb).
+NB: for the ECG dataset, please unzip the file 'ecg.zip' before loading it.
